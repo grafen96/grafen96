@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently studying Computer engineering
+- 🌱 I’m currently studying a master of science in Computer Science and Engineering
 - 🔭 I’m currently working on a website with a Django Backend
 
 <!--
